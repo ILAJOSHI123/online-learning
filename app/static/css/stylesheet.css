@@ -1,0 +1,59 @@
+.bg-primary{
+    background-color: #417690;
+}
+
+.mt20{
+margin-top: 20px;
+}
+
+.container-custom{
+width: 90%!important;
+margin:auto;
+}
+
+.box p{
+    font-size:15px;
+    Line-height: 28px;
+    height: 90px;
+    overflow: hidden;
+}
+
+
+#btn{
+    background-color: rgb(12, 12, 207);
+    float:right;
+}
+/* styles.css */
+
+
+.container .slide-container .slide{
+    min-height: 100vh;
+    position: relative;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.slide-container {
+    width: 100%;
+    overflow: hidden;
+  }
+
+  .slide {
+    display: none;
+  }
+
+  .active {
+    display: block;
+  }
+
+  .carousel {
+    width: 70%; /* Adjust the width as needed */
+    margin: 0 auto;
+}
+
+.slide {
+    text-align: center;
+    padding: 20px;
+}
+
+
